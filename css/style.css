@@ -1,0 +1,5 @@
+@import "reset.css";
+
+/* components */
+@import "components/main-logo.css";
+@import "components/main-header.css";
